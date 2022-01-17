@@ -1,1 +1,13 @@
-###setup
+{
+  "response": [
+    {
+      "datetime": 1642119210,
+      "filename": "lineage-19.0-20220114-UNOFFICIAL-rosy.zip",
+      "id": "b21e3be86b34152a23b16b2286d77c66",
+      "romtype": "UNOFFICIAL",
+      "size": 740778062,
+      "url": "https://sourceforge.net/projects/baunilla/files/rosy/lineage-19.0-20220114-UNOFFICIAL-rosy.zip/download",
+      "version": "19.0"
+    }
+  ]
+}
