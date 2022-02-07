@@ -1,1 +1,4 @@
-test ota
+-updated kernel
+-added sim on/off feature
+-increased zram size
+-improved performance
