@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644221753,
-      "size": 737801216,
-      "filehash": "349c48a21d83dc4b45e13d8888e93cd0",
-      "filename": "Awaken-2.3-Nebula-rosy-UNOFFICIAL-Vanilla-0817-20220207.zip",
-      "id": "2d2fd1a95115c693519bb4547c807ac6e68f6702cae08a74785e3712151eb61a",
+      "datetime": 1645007849,
+      "size": 754334851,
+      "filehash": "6fa2ac71ee3a6cb5332a7d70293c67a6",
+      "filename": "Awaken-2.4-Aurora-rosy-UNOFFICIAL-Vanilla-1039-20220216.zip",
+      "id": "c30bab81b561bde309d810fed5a42b4d301f72345293c1feb18b20d0f72d1ff2",
       "romtype": "UNOFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/rosy-roms-pricexd/files/awaken/Awaken-2.3-Nebula-rosy-UNOFFICIAL-Vanilla-0817-20220207.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/rosy-roms-pricexd/files/awaken/Awaken-2.4-Aurora-rosy-UNOFFICIAL-Vanilla-1039-20220216.zip/download"
     }
   ]
 }
